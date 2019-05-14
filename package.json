@@ -1,0 +1,33 @@
+{
+  "name": "js-bank",
+  "version": "0.0.1",
+  "description": "A simple ATM simulator developed with javascript for study purposes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klasrak/js-bank.git"
+  },
+  "keywords": [
+    "ATM",
+    "simulator",
+    "javascript",
+    "study",
+    "purposes"
+  ],
+  "author": "klasrak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klasrak/js-bank/issues"
+  },
+  "homepage": "https://github.com/klasrak/js-bank#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
